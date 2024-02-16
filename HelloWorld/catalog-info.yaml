@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage_test
+  annotations:
+    github.com/project-slug: nrmohan/backstage_test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
