@@ -4,7 +4,9 @@ metadata:
   name: backstage_test
   annotations:
     github.com/project-slug: nrmohan/backstage_test
+    backstage.io/docker-ref: backstage_test
+    backstage.io/container-image-name: backstage_test
 spec:
-  type: other
+  type: backend
   lifecycle: unknown
   owner: guests
